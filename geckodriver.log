@@ -1,0 +1,3 @@
+1477850600321	geckodriver	INFO	Listening on 127.0.0.1:50350
+1477850611882	mozprofile::profile	INFO	Using profile path C:\Users\JOBIN_~1\AppData\Local\Temp\rust_mozprofile.isjueBSOo6HI
+1477850390347	geckodriver::marionette	INFO	Starting browser path/to/installed firefox binary
